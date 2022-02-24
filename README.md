@@ -1,1 +1,1 @@
-# machine-learning-stock-prediction
+# Machine Learning Stock Price Prediction App
